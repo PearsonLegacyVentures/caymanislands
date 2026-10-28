@@ -7,7 +7,7 @@ Static-first luxury destination website for Tranquilitas mobile massage in Grand
 - Build output directory: /
 
 ## Canonical host
-https://cayman.tranquilitasspa.com
+https://caymanislands.tranquilitasspa.com
 
 ## Booking
 Cayman services currently offered: Swedish, Deep Tissue and Couples Massage in 60 / 90 minute options. No beach massage is offered in the Cayman Islands.
